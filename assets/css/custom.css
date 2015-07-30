@@ -1,0 +1,28 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+ @media (min-width: 768px) { p #hireme {
+	float: right;
+	margin-left: 20px;
+}
+}
+
+#aboutme {
+	padding-top: 100px;
+}
+
+.aboutmehello h2{
+	font-size: 30px;
+	line-height: 30px;
+}
+
+.aboutmehello p{
+	font-size: 20px;
+	margin-top: 50px;
+	line-height: 35px;
+}
+
+.customblog{
+	left:auto;
+	right:auto;
+	text-align: center;
+	padding:300px 0 55px 0;
+}
